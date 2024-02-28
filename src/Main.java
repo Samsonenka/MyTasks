@@ -1,5 +1,4 @@
-import Sorting.Bubble;
-import Sorting.Task1;
+import Tasks.Task1;
 
 import java.util.Scanner;
 

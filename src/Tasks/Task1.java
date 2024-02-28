@@ -1,4 +1,4 @@
-package Sorting;
+package Tasks;
 
 public class Task1 {
 
