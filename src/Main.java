@@ -18,14 +18,14 @@ public class Main {
 
         System.out.println("Input a");
         int a = scanner.nextInt();
-        System.out.println("Input b");
-        int b = scanner.nextInt();
+        System.out.println("Input p");
+        int p = scanner.nextInt();
         System.out.println("Input m1");
         double m1 = scanner.nextDouble();
         System.out.println("Input m2");
         double m2 = scanner.nextDouble();
 
-        System.out.println(task1.valueG(a, b, m1, m2));
+        System.out.println(task1.valueG(a, p, m1, m2));
 
     }
 }
